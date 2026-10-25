@@ -4,6 +4,7 @@ import { Menu, X, BrainCircuit, ArrowUpRight } from 'lucide-react';
 const navLinks = [
   { label: 'Services', href: '#services' },
   { label: 'Approach', href: '#approach' },
+  { label: 'Portfolio', href: '/portifolio' },
   { label: 'Case Studies', href: '#case-studies' },
   { label: 'Team', href: '#team' },
   { label: 'Insights', href: '#insights' },
